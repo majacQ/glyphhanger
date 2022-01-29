@@ -33,7 +33,7 @@
     "fs-extra": "^5.0.0",
     "get-stdin": "^6.0.0",
     "glob": "^7.1.2",
-    "jsdom": "^13.0.0",
+    "jsdom": "^19.0.0",
     "minimist": "^1.2.0",
     "parse-filepath": "^1.0.2",
     "rsvp": "^4.7.0",
